@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mika
+  - Gato
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - Mika
+  - Gato
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2454995019
+    locked: 0
+  - name: Nubes
+    uniqueID: 1494773961
+    locked: 0
+  - name: Elementos
+    uniqueID: 2033621197
+    locked: 0
+  - name: Elementos1
+    uniqueID: 73137621
+    locked: 0
+  - name: Mikka
+    uniqueID: 1741973519
+    locked: 0
+  - name: Gato
+    uniqueID: 914362363
+    locked: 0
